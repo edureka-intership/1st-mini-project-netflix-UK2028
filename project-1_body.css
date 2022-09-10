@@ -1,0 +1,1020 @@
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+@media(max-width:320px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 0%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+    /* width: 86%; */
+}
+
+
+.h-2{
+    padding-left: 15%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 13%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left:2%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:100%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -96%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 30%;
+    width: 42%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:320px) and (max-width:412px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 0%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 20%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left:2%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:100%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -96%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 30%;
+    width: 42%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:412px) and (max-width:512px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 0%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 25%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left: 0%;
+    margin-top: 1%;
+    padding-right: 4%;
+    
+}
+
+.h-4-input{
+    width:105%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -98%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 37%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:512px) and (max-width:576px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 0%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 31%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left: 2%;
+    margin-top: 1%;
+    padding-right: 15%;
+    
+}
+
+.h-4-input{
+    width:117%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -112%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 39%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:576px) and (max-width:635px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 0%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 200%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 31%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left: 2%;
+    margin-top: 1%;
+    padding-right: 18%;
+    
+}
+
+.h-4-input{
+    width:122%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -117%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 43%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:635px) and (max-width:685px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 2%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 221%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 31%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 92%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 95%;
+}
+
+.h-4{
+    padding-left: 2%;
+    margin-top: 1%;
+    padding-right: 21%;
+    
+}
+
+.h-4-input{
+    width:122%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -117%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 43%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:685px) and (max-width:768px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 2%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 272%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 31%;
+    padding-top: 10%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 116%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 6%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 100%;
+}
+
+.h-4{
+    padding-left: 6%;
+    margin-top: 1%;
+    padding-right: 20%;
+    
+}
+
+.h-4-input{
+    width:122%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -117%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 43%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:768px) and (max-width:992px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 2%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 335%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 34%;
+    padding-top: 6%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 126%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 6%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 125%;
+}
+
+.h-4{
+    padding-left: 6%;
+    margin-top: 1%;
+    padding-right: 40%;
+    
+}
+
+.h-4-input{
+    width:168%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -160%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 64%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:992px) and (max-width:1050px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 4%;
+}
+
+.h-1{
+    padding-left: 19%;
+    text-align: center;
+    color: white;
+    font-size: 335%;
+    font-weight: bolder;
+    
+}
+
+
+.h-2{
+    padding-left: 34%;
+    padding-top: 6%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 126%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 6%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 125%;
+}
+
+.h-4{
+    padding-left: 6%;
+    margin-top: 1%;
+    padding-right: 40%;
+    
+}
+
+.h-4-input{
+    width:168%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -160%;
+    font-size: 90%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    padding: 2%;
+    margin-left: 64%;
+    width: 37%;
+    margin-top: 10%;
+}
+
+}
+
+@media(min-width:1050px) and (max-width:1100px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: -5%;
+}
+
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+}
+
+@media(min-width:1100px) and (max-width:1150px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: -5%;
+}
+
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+}
+
+
+@media(min-width:1150px) and (max-width:1200px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: -3%;
+}
+
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+}
+
+
+@media(min-width:1200px) and (max-width:1250px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: -1%;
+}
+
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+}
+
+@media(min-width:1250px) and (max-width:1350px){
+    .div-1-middle{
+    margin-top:5%;
+    margin-left: 2%;
+}
+
+.h-1{
+    padding-left: 24%;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+    width: 86%;
+}
+
+.h-2{
+    padding-left: 32%;
+}
+
+.h-2-span{
+    color: white;
+    font-size: 218%;
+    font-weight: bolder;
+}
+
+.h-3{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+
+.h-3-span{
+    color: white;
+    font-size: 185%;
+}
+
+.h-4{
+    padding-left:6%
+    ;margin-top: 1%;
+    
+}
+
+.h-4-input{
+    width:85%;
+    padding: 2%;
+    
+}
+
+.h-4-input-span{
+    margin-left: -83%;
+    font-size: 157%;
+}
+
+.h-4-button{
+    text-decoration-line: none;
+    margin: -0.5%;
+    padding: 2.1%;
+    margin-left: 63%;
+    width: 20%;
+    
+}
+
+}
+
+@media(min-width:1350px) and (max-width:1500px){
+    .div-1-middle{
+        width:85%;
+        margin-left: 2%;
+    }
+
+}
+
+@media (min-width:1500px) and (max-width:1700px) {
+    .div-1-middle{
+        width:85%;
+        margin-left: 4%;
+    }
+
+    .h-2{
+    padding-left: 36%;
+}
+
+.h-3{
+    padding-left: 21%;
+    padding-top: 2%;
+}
+}
+
+@media(min-width:1700px) and (max-width:1880px){
+    .div-1-middle{
+        width:85%;
+        margin-left: 4%;
+    }
+
+    .h-2{
+    padding-left: 36%;
+}
+
+.h-3{
+    padding-left: 26%;
+    padding-top: 2%;
+}
+}
+
+@media(min-width:1880px) {
+    .div-1-middle{
+        width:85%;
+        margin-left: 4%;
+    }
+
+    .h-2{
+    padding-left: 38%;
+}
+
+.h-3{
+    padding-left: 30%;
+    padding-top: 2%;
+}
+}

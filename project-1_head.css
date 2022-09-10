@@ -1,0 +1,274 @@
+.logo{
+    fill: red;
+    display: block;
+    width: 60%;
+    margin-top: 7%;
+}
+
+.select-anchor{
+    display: inline;
+    float: right;
+    width: 30%;
+    margin-top: 4%;
+}
+
+.select{
+    padding: 3%;
+    margin-right: 10%;
+}
+
+.anchor{
+    text-decoration-line: none;
+    padding: 3%;
+}
+
+@media (max-width:320px) {
+    
+    .logo{
+        width: 150%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 95%;
+
+    }
+
+    .select{
+        padding: 1%;
+        margin-right: 0%;
+        margin-left: 10%;
+    }
+
+    .anchor{
+        padding: 1%;
+        margin-left: 5%;
+    }
+
+}
+
+@media (width:320px) {
+    .select-anchor{
+        width: 107%;
+       
+    }
+}
+
+@media (min-width:321px) and (max-width:353px){
+    
+    .logo{
+        width: 150%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:2%;
+        display: inline;
+        float: right;
+        width: 84%;
+    }
+
+    .select{
+        padding: 1%;
+        margin-right: 0%;
+        margin-left: -6%;
+    }
+
+    .anchor{
+        padding: 1%;
+        margin-left: 1%;
+    }
+
+}
+
+@media (min-width:354px) and (max-width:382px){
+    
+    .logo{
+        width: 150%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:2%;
+        display: inline;
+        float: right;
+        width: 76%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        margin-left: -13%;
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 3%;
+    }
+
+}
+
+@media (min-width:382px) and (max-width:426px){
+    
+    .logo{
+        width: 150%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:4%;
+        display: inline;
+        float: right;
+        width: 76%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        margin-left: -7%;
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 6%;
+    }
+
+}
+
+@media (min-width:426px) and (max-width:478px){
+    .logo{
+        width: 130%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 66%;
+    }
+
+    .select {
+        padding: 3%;
+        margin-right: 0%;
+        margin-left: -12%;
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 6%;
+    }
+
+}
+
+@media (min-width:478px) and (max-width:608px){
+    
+    .logo{
+        width: 130%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 68%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 8%;
+    }
+
+}
+
+@media (min-width:608px) and (max-width:801px){
+    
+    .logo{
+        width: 110%;
+        margin-top: 10%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 50%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 8%;
+    }
+
+}
+
+@media (min-width:801px) and (max-width:1024px) {
+    
+    .logo{
+        width: 90%;
+        margin-top: 7%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 43%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 10%;
+    }
+
+}
+
+@media (min-width:1024px) and (max-width:1200px) {
+    
+    .logo{
+        width: 90%;
+        margin-top: 7%;
+    }
+
+    .select-anchor{
+        margin-top:3%;
+        display: inline;
+        float: right;
+        width: 35%;
+    }
+
+    .select{
+        padding: 3%;
+        margin-right: 0%;
+        
+    }
+
+    .anchor{
+        padding: 3%;
+        margin-left: 10%;
+
+    }
+
+}
